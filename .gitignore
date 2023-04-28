@@ -1,6 +1,9 @@
 # Default ignored files
+_*
 __pycache__
 venv
 .idea
+*.spec
+
 
 
